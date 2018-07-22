@@ -4,3 +4,4 @@ $('#m1').click(function () {
         document.write("This is ABC");
     }, 3000);
 });
+
